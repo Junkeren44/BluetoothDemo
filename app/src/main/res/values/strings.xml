@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bluetooth Demo App</string>
+    <string name="this_is_a_text_application_output_in_log">This is a text application, output in log</string>
+</resources>
